@@ -8,3 +8,8 @@ Isle_Wight.tif is a sample image to be used in some of these scripts. It is a 10
 ## Corresponding blog posts
 
 Blog 1 - http://www.acgeospatial.co.uk/julia-prt1/
+
+## planned
+Blog 2  - speed test
+Blog 3 - reading / writing / displaying images
+
