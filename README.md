@@ -5,7 +5,7 @@ The aim of this series is to have a look at the potential for Julia in Geospatia
 <br>
 I will be using the ArchGDAL package for this work. There maybe other packages available, at present (Feb 2019) ArchGDAL offered far more than any other Julia package that I could find. I am more than happy to be corrected though.
 
-<br>
+</br><br>
 I don't claim any expertise on Julia Lang - I am just learning. If you have any contributions to make this code better I will happily take them. 
 
 ## Imagery
