@@ -1,5 +1,12 @@
 # Julia_Geospatial
-Examples for a blog series on Geospatial Julia using ArchGDAL
+Examples for a blog series on Geospatial Julia using ArchGDAL.
+The aim of this series is to have a look at the potential for Julia in Geospatial technology. I am more focused on Raster data, in particular data from Satellites - in these posts I will be using Sentinel 2a data. <br>
+
+<br>
+I will be using the ArchGDAL package for this work. There maybe other packages available, at present (Feb 2019) ArchGDAL offered far more than any other Julia package that I could find. I am more than happy to be corrected though.
+
+<br>
+I don't claim any expertise on Julia Lang - I am just learning. If you have any contributions to make this code better I will happily take them. 
 
 ## Imagery
 
@@ -12,7 +19,7 @@ Isle_Wight.tif is a sample image to be used in some of these scripts. It is a 10
 Blog 1 - http://www.acgeospatial.co.uk/julia-prt1/ <br>
 Blog 2 - http://www.acgeospatial.co.uk/julia-prt2/
 
-## planned - coming soon
+## Planned - coming soon
 
 Blog 3 - reading / writing / displaying images
 
