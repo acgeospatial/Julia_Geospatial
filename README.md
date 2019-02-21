@@ -14,9 +14,10 @@ Isle_Wight.tif (https://github.com/acgeospatial/Julia_Geospatial/blob/master/Isl
 ## Corresponding blog posts
 
 Blog 1 - http://www.acgeospatial.co.uk/julia-prt1/ <br>
-Blog 2 - http://www.acgeospatial.co.uk/julia-prt2/
+Blog 2 - http://www.acgeospatial.co.uk/julia-prt2/ <br>
+Blog 3 - http://www.acgeospatial.co.uk/julia-prt3/
 
 ## Planned - coming soon
 
-Blog 3 - reading / writing / displaying images
+I might look at vector data but not planned at present
 
