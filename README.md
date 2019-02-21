@@ -5,6 +5,9 @@ The aim of this series is to have a look at the potential for Julia in Geospatia
 <br>
 I don't claim any expertise on Julia Lang - I am just learning. If you have any contributions to make this code better I will happily take them. 
 
+## An important note
+This series was written in February 2019 on Julia version 1.1.0 and ArchGDAL version available at this time (not sure version number). ArchGDAL is still in alpha and could change please bear this in mind if you are looking at this later than Feb 2019.
+
 ## Imagery
 
 Isle_Wight.tif (https://github.com/acgeospatial/Julia_Geospatial/blob/master/Isle_wight.tif) is a sample image to be used in some of these scripts. It is a 10m spatial resolution RGB Sentinel 2a image from 2017 (from May I think). I have preprocessed it. I have performed a 99% clip stretch on the data for better display. This was done in Python using Rasterio, but should be possible in ArchGDAL as well, perhaps using https://juliastats.github.io/StatsBase.jl
