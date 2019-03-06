@@ -18,9 +18,12 @@ Isle_Wight.tif (https://github.com/acgeospatial/Julia_Geospatial/blob/master/Isl
 
 Blog 1 - http://www.acgeospatial.co.uk/julia-prt1/ <br>
 Blog 2 - http://www.acgeospatial.co.uk/julia-prt2/ <br>
-Blog 3 - http://www.acgeospatial.co.uk/julia-prt3/
+Blog 3 - http://www.acgeospatial.co.uk/julia-prt3/ <br>
 
-## Planned - coming soon
+No blog (yet) but I have taken a brief look at vector data and ArchGDAL here
+https://github.com/acgeospatial/Julia_Geospatial/blob/master/02_Notebooks/05_testing_shapefile.ipynb
 
-I might look at vector data but not planned at present
+## Planned - nothing at present - email me info@acgeospatial.co.uk
+
+
 
