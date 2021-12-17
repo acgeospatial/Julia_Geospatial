@@ -7,6 +7,8 @@ I don't claim any expertise on Julia Lang - I am just learning. If you have any 
 
 ## An important note - UPDATE
 <del>This series was written in February 2019 on Julia version 1.1.0 and ArchGDAL version available at this time (not sure version number). ArchGDAL is still in alpha and could change please bear this in mind if you are looking at this later than Feb 2019.</del>
+
+
 <b>I have updated all the code for Julia 1.7.0. Enjoy!</b>
 
 ## Imagery
