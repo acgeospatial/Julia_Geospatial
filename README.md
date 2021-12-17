@@ -5,8 +5,9 @@ The aim of this series is to have a look at the potential for Julia in Geospatia
 <br>
 I don't claim any expertise on Julia Lang - I am just learning. If you have any contributions to make this code better I will happily take them. 
 
-## An important note
-This series was written in February 2019 on Julia version 1.1.0 and ArchGDAL version available at this time (not sure version number). ArchGDAL is still in alpha and could change please bear this in mind if you are looking at this later than Feb 2019.
+## An important note - UPDATE
+<del>This series was written in February 2019 on Julia version 1.1.0 and ArchGDAL version available at this time (not sure version number). ArchGDAL is still in alpha and could change please bear this in mind if you are looking at this later than Feb 2019.</del>
+<b>I have updated all the code for Julia 1.7.0. Enjoy!</b>
 
 ## Imagery
 
