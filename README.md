@@ -11,6 +11,8 @@ I don't claim any expertise on Julia Lang - I am just learning. If you have any 
 
 <b>I have updated all the code for Julia 1.7.0. Enjoy!</b>
 
+brief blog post here - http://www.acgeospatial.co.uk/julia-prt4/ <br>
+
 ## Imagery
 
 Isle_Wight.tif (https://github.com/acgeospatial/Julia_Geospatial/blob/master/Isle_wight.tif) is a sample image to be used in some of these scripts. It is a 10m spatial resolution RGB Sentinel 2a image from 2017 (from May I think). I have preprocessed it. I have performed a 99% clip stretch on the data for better display. This was done in Python using Rasterio, but should be possible in ArchGDAL as well, perhaps using https://juliastats.github.io/StatsBase.jl
@@ -19,12 +21,19 @@ Isle_Wight.tif (https://github.com/acgeospatial/Julia_Geospatial/blob/master/Isl
 
 ## Corresponding blog posts
 
-Blog 1 - http://www.acgeospatial.co.uk/julia-prt1/ <br>
-Blog 2 - http://www.acgeospatial.co.uk/julia-prt2/ <br>
-Blog 3 - http://www.acgeospatial.co.uk/julia-prt3/ <br>
+Blog 1 (Feb 2019) - http://www.acgeospatial.co.uk/julia-prt1/ <br>
+Blog 2 (Feb 2019) - http://www.acgeospatial.co.uk/julia-prt2/ <br>
+Blog 3 (Feb 2019) - http://www.acgeospatial.co.uk/julia-prt3/ <br>
+Blog 4 (Dec 2021) - http://www.acgeospatial.co.uk/julia-prt4/ <br>
 
-No blog (yet) but I have taken a brief look at vector data and ArchGDAL here
+## Notebooks of interest
+Raster data and ArchGDAL here
+
+Vector data and ArchGDAL here
 https://github.com/acgeospatial/Julia_Geospatial/blob/master/02_Notebooks/05_testing_shapefile.ipynb
+
+Sentinel 2 and GeoArrays here
+
 
 ## Planned - nothing at present - email me info@acgeospatial.co.uk
 
