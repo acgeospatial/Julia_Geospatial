@@ -28,9 +28,12 @@ Blog 4 (Dec 2021) - http://www.acgeospatial.co.uk/julia-prt4/ <br>
 
 ## Notebooks of interest
 Raster data and ArchGDAL here
+https://github.com/acgeospatial/Julia_Geospatial/blob/master/02_Notebooks/04_reading_displaying_writing_rasters_Julia.ipynb
+
 
 Vector data and ArchGDAL here
 https://github.com/acgeospatial/Julia_Geospatial/blob/master/02_Notebooks/05_testing_shapefile.ipynb
+
 
 Sentinel 2 and GeoArrays here
 
