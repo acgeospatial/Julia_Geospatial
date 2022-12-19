@@ -36,7 +36,7 @@ https://github.com/acgeospatial/Julia_Geospatial/blob/master/02_Notebooks/05_tes
 Sentinel 2 and GeoArrays here
 https://github.com/acgeospatial/Julia_Geospatial/blob/master/02_Notebooks/06_working_with_Sentinel2.ipynb
 
-## Planned - nothing at present - email me info@acgeospatial.co.uk
+## Planned - nothing at present - email me info.acgeospatial@gmail.co.uk
 
 
 
