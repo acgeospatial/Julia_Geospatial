@@ -7,9 +7,9 @@ I don't claim any expertise on Julia Lang - I am just learning. If you have any 
 
 ## An important note - UPDATE
 
-<b> Dec 2021 I have updated all the code for Julia 1.7.0. Plus added a new notebook and blog. Enjoy!</b>
+<b> Dec 2022 I have checked all the code for Julia 1.8.3 and it works. There is no promise of this being best practice, but enjoy!</b>
 
-brief blog post here - http://www.acgeospatial.co.uk/julia-prt4/ <br>
+brief blog post here (2021) - http://www.acgeospatial.co.uk/julia-prt4/ <br>
 
 ## Imagery
 
